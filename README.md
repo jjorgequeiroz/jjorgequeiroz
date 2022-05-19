@@ -1,4 +1,4 @@
-### Olá Pessoal, eu sou o Jorge Queiroz, desenvolvedor front-end!
+### Olá Pessoal, eu sou o Jorge Queiroz!
 
 - 📡 Sou Engenheiro de Telecomunicações; 
 - 🚀 Desenvolvedor de Software;
